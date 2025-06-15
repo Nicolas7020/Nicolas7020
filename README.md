@@ -45,8 +45,6 @@
 - 🎪 **Event Organizer** - Organizing various campus events and activities
 - 👥 **Freshmen Partner** - Mentoring and guiding new students in their academic journey
 
-![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
@@ -55,6 +53,6 @@
 - 📧 Email: nicolasmaulanass@gmail.com
 - 💼 LinkedIn: [Nicolas Maulana SS](www.linkedin.com/in/nicolas-maulana-ss-a76690285)
 
-
+![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ---
 ⭐️ From [Nicolas7020](https://github.com/Nicolas7020)

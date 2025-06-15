@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Nicolas Maulana SS
 
 ## 🎓 About Me
 - 🌟 4th Semester Computer Science - Software Engineering Student
@@ -50,9 +50,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website]
+- 📧 Email: nicolasmaulanass@gmail.com
+- 💼 LinkedIn: [Nicolas Maulana SS](www.linkedin.com/in/nicolas-maulana-ss-a76690285)
+
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [Nicolas7020](https://github.com/Nicolas7020)

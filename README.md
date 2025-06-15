@@ -45,21 +45,7 @@
 - 🎪 **Event Organizer** - Organizing various campus events and activities
 - 👥 **Freshmen Partner** - Mentoring and guiding new students in their academic journey
 
-<details>
-<summary>🐍 Play Snake Game!</summary>
-
-```
-  ____              _        _____                      
- / ___| _ __   __ _| | _____|_   _(_)_ __ ___   ___     
- \___ \| '_ \ / _` | |/ / _ \ | | | | '_ ` _ \ / _ \    
-  ___) | | | | (_| |   <  __/ | | | | | | | | |  __/   
- |____/|_| |_|\__,_|_|\_\___| |_| |_|_| |_| |_|\___|   
-                                                       
-```
-
 ![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
-</details>
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)

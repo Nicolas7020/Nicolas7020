@@ -55,4 +55,4 @@
 
 ![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ---
-⭐️ From [Nicolas7020](https://github.com/Nicolas7020)
+⭐️From [Nicolas7020](https://github.com/Nicolas7020)

@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Nicolas Maulana SS
 
 ## 🎓 About Me
-- 🌟 4th Semester Computer Science - Software Engineering Student
-- 💻 Passionate Full Stack Developer & AI Enthusiast
-- 🏛️ Active member of HIMTI (Himpunan Mahasiswa Teknik Informatika)
-- 🤝 Campus event organizer and Freshmen Partner
-- 🚀 Always eager to learn new technologies and solve real-world problems
+- 4th Semester Computer Science - Software Engineering Student
+- Passionate Full Stack Developer & AI Enthusiast
+- Active member of HIMTI (Himpunan Mahasiswa Teknik Informatika)
+- Campus event organizer and Freshmen Partner
+- Always eager to learn new technologies and solve real-world problems
 
 ## 🛠️ Tech Stack
 **Frontend:**
@@ -33,17 +33,17 @@
 
 ## 🚀 Featured Projects
 
-- 🎯 **Donation Tracker Platform** - Full-stack donation management system (Next.js, Express.js, PostgreSQL)
-- 👗 **Fashion Brand E-commerce** - Complete UI/UX design and web development (HTML, CSS, JS, Figma)
-- 🔍 **Fake News Detection** - ML classification system using Logistic Regression (Python, Streamlit)
-- 🏧 **ATM System** - OOP implementation with State & Singleton patterns (Java, UML)
-- 👨‍🎓 **Student Monitoring System** - CNN-based activity recognition with real-time tracking (Python, OpenCV)
-- 📈 **Stock Price Prediction** - LSTM deep learning model with web deployment (Python, Flask)
+- **Donation Tracker Platform** - Full-stack donation management system (Next.js, Express.js, PostgreSQL)
+- **Fashion Brand E-commerce** - Complete UI/UX design and web development (HTML, CSS, JS, Figma)
+- **Fake News Detection** - ML classification system using Logistic Regression (Python, Streamlit)
+- **ATM System** - OOP implementation with State & Singleton patterns (Java, UML)
+- **Student Monitoring System** - CNN-based activity recognition with real-time tracking (Python, OpenCV)
+- **Stock Price Prediction** - LSTM deep learning model with web deployment (Python, Flask)
 
 ## 🌟 Campus Involvement
-- 🏛️ **HIMTI Member** - Contributing to department activities and student development
-- 🎪 **Event Organizer** - Organizing various campus events and activities
-- 👥 **Freshmen Partner** - Mentoring and guiding new students in their academic journey
+- **HIMTI Member** - Contributing to department activities and student development
+- **Event Organizer** - Organizing various campus events and activities
+- **Freshmen Partner** - Mentoring and guiding new students in their academic journey
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)

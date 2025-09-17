@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nicolas Maulana SS
+# Hi there! I'm Nicolas Maulana SS
 
 ## About Me
 - 5th Semester Computer Science - Software Engineering Student
@@ -51,8 +51,8 @@
 
 ## Let's Connect!
 - Email: nicolasmaulanass@gmail.com
-- LinkedIn: [Nicolas Maulana SS](www.linkedin.com/in/nicolas-maulana-ss-a76690285)
+- LinkedIn: [Nicolas Maulana SS](linkedin.com/in/nicolas-maulana-ss-a76690285)
 
 ![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ---
-⭐️From [Nicolas7020](https://github.com/Nicolas7020)
+From [Nicolas7020](https://github.com/Nicolas7020)

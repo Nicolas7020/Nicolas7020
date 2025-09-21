@@ -52,7 +52,7 @@
 ## Let's Connect!
 - Email: [nicolasmaulanass@gmail.com](mailto:nicolasmaulanass@gmail.com)
 - LinkedIn: [Nicolas Maulana SS](https://www.linkedin.com/in/nicolas-maulana-ss-a76690285)
-- Website: https://nicolasmaulanass.com/#about
+- Website: [Here!](https://nicolasmaulanass.com/)
 
 ![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ---

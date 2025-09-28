@@ -46,8 +46,8 @@
 - **Freshmen Partner** - Mentoring and guiding new students in their academic journey
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolas7020&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas7020&layout=compact&theme=radical)
 
 ## Let's Connect!
 - Email: [nicolasmaulanass@gmail.com](mailto:nicolasmaulanass@gmail.com)

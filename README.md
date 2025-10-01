@@ -1,4 +1,4 @@
-# Hi there! I'm Nicolas Maulana SS
+# Hi there! ✌️ I'm Nicolas Maulana SS
 
 - 5th Semester Computer Science - Software Engineering Student
 - Passionate Full Stack Developer & AI Enthusiast

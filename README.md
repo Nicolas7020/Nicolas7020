@@ -3,12 +3,10 @@
 - 5th Semester Computer Science - Software Engineering Student
 - Passionate Full Stack Developer & AI Enthusiast
 - Active member of HIMTI (Himpunan Mahasiswa Teknik Informatika)
-
-## GitHub Stats
+  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolas7020&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas7020&layout=compact&theme=radical)
 
-## Let's Connect!
 - Email: [nicolasmaulanass@gmail.com](mailto:nicolasmaulanass@gmail.com)
 - LinkedIn: [Nicolas Maulana SS](https://www.linkedin.com/in/nicolas-maulana-ss-a76690285)
 - Website: [Here!](https://nicolasmaulanass.com/)

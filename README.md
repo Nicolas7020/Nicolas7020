@@ -3,8 +3,6 @@
 - 5th Semester Computer Science - Software Engineering Student
 - Passionate Full Stack Developer & AI Enthusiast
 - Active member of HIMTI (Himpunan Mahasiswa Teknik Informatika)
-- Campus event organizer and Freshmen Partner
-- Always eager to learn new technologies and solve real-world problems
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolas7020&show_icons=true&theme=radical)

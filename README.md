@@ -1,6 +1,5 @@
 # Hi there! I'm Nicolas Maulana SS
 
-## About Me
 - 5th Semester Computer Science - Software Engineering Student
 - Passionate Full Stack Developer & AI Enthusiast
 - Active member of HIMTI (Himpunan Mahasiswa Teknik Informatika)

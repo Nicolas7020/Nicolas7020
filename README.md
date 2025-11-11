@@ -1,8 +1,4 @@
 # Hi there! ✌️ I'm Nicolas Maulana SS
-
-- 5th Semester Computer Science - Software Engineering Student
-- Passionate Full Stack Developer & AI Enthusiast
-- Active member of HIMTI (Himpunan Mahasiswa Teknik Informatika)
   
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolas7020&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas7020&layout=compact&theme=radical)
